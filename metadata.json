@@ -1,0 +1,6 @@
+{
+  "name": "Photobooth Studio",
+  "description": "A feature-rich, modern web-based Photobooth with multiple filters, dynamic frame overlays, customizable layouts, timer countdown, and database-ready gallery management.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
